@@ -1,0 +1,30 @@
+<ul class="sidebar-menu" data-widget="tree">
+    <li class="header">Daftar Menu</li>
+    <li class="active treeview">
+      <a href="#">
+        <i class="fa fa-dashboard"></i> <span>Dashboard</span>
+        <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i>
+        </span>
+      </a>
+      <ul class="treeview-menu">
+        <li class="active"><a href="index.html"><i class="fa fa-circle-o"></i> Dashboard v1</a></li>
+        <li><a href="index2.html"><i class="fa fa-circle-o"></i> Dashboard v2</a></li>
+      </ul>
+    </li>
+
+    <li class="treeview">
+      <a href="#">
+        <i class="fa fa-table"></i> <span>Inventory</span>
+        <span class="pull-right-container">
+          <i class="fa fa-angle-left pull-right"></i>
+        </span>
+      </a>
+      <ul class="treeview-menu">
+        <li><a href="pages/tables/simple.html"><i class="fa fa-circle-o"></i>
+            Buat Inventory Baru</a></li>
+        <li><a href="/latihan/pages/tables/inventory.php"><i class="fa fa-circle-o"></i>Lihat Inventory</a></li>
+      </ul>
+    </li>
+
+</ul>
